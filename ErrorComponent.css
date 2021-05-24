@@ -1,0 +1,12 @@
+.background-error {
+    /* clear background */
+  background: rgba(242, 242, 242, 0.4);
+}
+
+.err {
+  position: relative;
+  z-index: 1031;
+  opacity: 1;
+  background-color: black;
+  border: 1px solid red;
+}

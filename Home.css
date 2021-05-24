@@ -1,0 +1,14 @@
+.aboutMe {
+  text-align: right;
+}
+
+.cap {
+  font-size: medium;
+  text-shadow: 1px 1px darkblue;
+}
+
+@media (min-width: 550px) {
+  .aboutMe {
+    text-align: center;
+  }
+}

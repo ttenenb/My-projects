@@ -1,0 +1,13 @@
+.loading {
+  width: 30%;
+  height: 5%;
+  border: 1px solid black;
+  border-radius: 11em;
+  background-color: cyan;
+}
+
+@media screen and (min-width: 900px) {
+  .loading {
+    width: 10%;
+  }
+}

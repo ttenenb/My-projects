@@ -1,0 +1,5 @@
+/* enable edit form and buttons */
+.edit {
+  position: relative;
+  z-index: 1031;
+}
